@@ -1,4 +1,4 @@
-# Signature-Matching
+# Signature - Matching
 Application to detect the similarity of two signatures.
 
 This Application helps mathematically evaluate similarity of two signatures. 
